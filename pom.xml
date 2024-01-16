@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.javarush</groupId>
-    <artifactId>tic-tac-toe</artifactId>
+    <artifactId>project-servlet</artifactId>
     <version>1.0</version>
     <name>tic-tac-toe</name>
     <packaging>war</packaging>
